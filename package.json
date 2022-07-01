@@ -64,7 +64,7 @@
     "lodash": "4.17.19",
     "micro": "9.3.4",
     "micro-cookie": "1.2.0",
-    "minimist": "1.2.3",
+    "minimist": "1.2.6",
     "morgan": "1.9.1",
     "object-to-xml": "2.0.0",
     "prop-types": "15.6.2",
