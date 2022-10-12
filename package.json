@@ -144,7 +144,7 @@
     "pretty-ms": "3.2.0",
     "react-scripts": "3.3.0",
     "react-testing-library": "6.0.0",
-    "read-excel-file": "4.0.7",
+    "read-excel-file": "5.5.1",
     "start-server-and-test": "1.11.6",
     "stop-only": "3.0.1",
     "terminal-banner": "1.1.0",
@@ -156,7 +156,7 @@
     "webpack": "4.29.6",
     "webpack-cli": "3.3.3",
     "webpack-dev-server": "3.7.1",
-    "x2js": "3.4.1"
+    "x2js": "3.4.3"
   },
   "engines": {
     "node": "11.6.0"
