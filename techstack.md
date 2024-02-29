@@ -3,34 +3,34 @@
 ## Tech Stack
 todaypp/cypress-example-recipes is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Python](https://www.python.org) – Languages
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ESLint](http://eslint.org/) – Code Review
-- [GraphQL](http://graphql.org/) – Query Languages
-- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Redux](https://redux.js.org/) – State Management Library
+- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [reselect](https://github.com/reactjs/reselect) – State Management Library
+- [styled-components](https://styled-components.com) – JavaScript Framework Components
+- [vuex](https://vuex.vuejs.org) – State Management Library
+- [GraphQL](http://graphql.org/) – Query Languages
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Cypress](https://www.cypress.io/) – Javascript Testing Framework
+- [ESLint](http://eslint.org/) – Code Review
 - [Enzyme](https://enzymejs.github.io/enzyme/) – Javascript Testing Framework
 - [Micro](https://github.com/micro/micro) – Microservices Tools
-- [Apollo](https://www.apollographql.com/) – Platform as a Service
-- [TSLint](https://github.com/palantir/tslint) – Code Review
-- [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- [vuex](https://vuex.vuejs.org) – State Management Library
-- [styled-components](https://styled-components.com) – JavaScript Framework Components
-- [reselect](https://github.com/reactjs/reselect) – State Management Library
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
-- [Cypress](https://www.cypress.io/) – Javascript Testing Framework
+- [TSLint](https://github.com/palantir/tslint) – Code Review
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [nodemon](http://nodemon.io/) – node.js Application Monitoring
 - [react-testing-library](https://testing-library.com/docs/react-testing-library/intro) – Testing Frameworks
+- [Apollo](https://www.apollographql.com/) – Platform as a Service
 - [Bluebird](https://github.com/petkaantonov/bluebird/) – Javascript Utilities & Libraries
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -40,34 +40,34 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 todaypp/cypress-example-recipes is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/7757/13142323.png' alt='reselect'/> [reselect](https://github.com/reactjs/reselect) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png' alt='Enzyme'/> [Enzyme](https://enzymejs.github.io/enzyme/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/4793/Powered_by_Micro__3_.png' alt='Micro'/> [Micro](https://github.com/micro/micro) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/5508/CyUH653y.png' alt='Apollo'/> [Apollo](https://www.apollographql.com/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/7757/13142323.png' alt='reselect'/> [reselect](https://github.com/reactjs/reselect) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg' alt='Parcel'/> [Parcel](https://parceljs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/9787/49996085.png' alt='react-testing-library'/> [react-testing-library](https://testing-library.com/docs/react-testing-library/intro) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/5508/CyUH653y.png' alt='Apollo'/> [Apollo](https://www.apollographql.com/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/11991/bb.png' alt='Bluebird'/> [Bluebird](https://github.com/petkaantonov/bluebird/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -78,7 +78,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [todaypp/cypress-example-recipes](https://github.com/todaypp/cypress-example-recipes)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|102<br/>Tools used|01/23/24 <br/>Report generated|
+|102<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
